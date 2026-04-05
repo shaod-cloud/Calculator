@@ -17,7 +17,7 @@ class calc
                 }
                 catch
                 {
-                    Console.WriteLine("Ты...серьёзно ? ");
+                    Console.WriteLine("Ты...серьёзно Надо поменять? ");
                     Console.WriteLine("Нажмите любую клавишу...");
                     Console.ReadKey();
                     continue;
