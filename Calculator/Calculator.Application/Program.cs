@@ -1,6 +1,4 @@
-﻿
-
-while (true)
+﻿while (true)
 {
     Console.Write("Введите первое число \n");
     string input_a = Console.ReadLine().Replace('.', ',');
